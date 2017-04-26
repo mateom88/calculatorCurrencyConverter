@@ -1,2 +1,2 @@
-# Calculator-Currency-converter
+# calculatorCurrencyConverter
 jQuery apllication with mathematical functions and currency converter.
